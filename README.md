@@ -65,14 +65,10 @@ CSM
 
 Enable:
 
-VT-X
-
 Above 4G decoding
-
-Hyper-Threading
-
-Execute Disable Bit
 
 EHCI/XHCI Hand-off
 
 OS type: Windows 8.1/10 UEFI Mode
+
+Please update your bios to f50
