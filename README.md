@@ -1,7 +1,7 @@
 # GA-AB350M-Gaming-3-Hackintosh
 Hackintosh config for GA-AB350M-Gaming 3
 
-Based on opencore 0.5.6
+Based on opencore 0.5.7
 
 It's perfect on 10.15.4
 
@@ -65,14 +65,10 @@ CSM
 
 Enable:
 
-VT-X
-
 Above 4G decoding
-
-Hyper-Threading
-
-Execute Disable Bit
 
 EHCI/XHCI Hand-off
 
 OS type: Windows 8.1/10 UEFI Mode
+
+Please update your bios to f50
