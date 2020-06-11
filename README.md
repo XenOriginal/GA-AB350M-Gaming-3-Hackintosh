@@ -1,15 +1,15 @@
 # GA-AB350M-Gaming-3-Hackintosh
 Hackintosh config for GA-AB350M-Gaming 3
 
-Based on opencore 0.5.7
+Based on opencore 0.5.9
 
-It's perfect on 10.15.4
+It's perfect on 10.15.5
 
 MotherBoard: GA-AB350M-Gaiming 3
 
 CPU: AMD Ryzen 7 1700
 
-GraphicCard: Radeon Vega Frontier Edition 16 GB
+GraphicCard: Radeon RX 580 4 GB
 
 # Caution
 
