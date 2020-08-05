@@ -1,9 +1,9 @@
 # GA-AB350M-Gaming-3-Hackintosh
 Hackintosh config for GA-AB350M-Gaming 3
 
-Based on opencore 0.5.9
+Based on opencore 0.6.0
 
-It's perfect on 10.15.5
+Tested passed on 10.16
 
 MotherBoard: GA-AB350M-Gaiming 3
 
